@@ -8,6 +8,7 @@ class WikiDemoApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("git");
     }
 
 }
